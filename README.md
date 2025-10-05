@@ -1,6 +1,5 @@
 ## Hi there 👋
-Hey chat it's me Mark Hanherly Abig your one and only streamer welcome to my github
-are you ready to get rizzy??
+Hey chat it's me Mark Hanherly Abig...
 <!--
 **AbigTheGoat/AbigTheGoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
